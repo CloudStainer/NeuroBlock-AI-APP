@@ -456,8 +456,8 @@
                                                     src: "/logo.png",
                                                     width: 24,
                                                     height: 24,
-                                                    alt: "MELAI",
-                                                    title: "MELAI"
+                                                    alt: "NUBAI",
+                                                    title: "NUBAI"
                                                 })
                                             }), (0, r.tZ)("span", {
                                                 className: "mr-2 text-foreground-alt-200",
@@ -502,7 +502,7 @@
                                             className: "flex justify-between items-end",
                                             children: [(0, r.tZ)("div", {
                                                 className: "font-bold text-foreground text-xs mr-2",
-                                                children: "MELAI:"
+                                                children: "NUBAI:"
                                             }), (0, r.tZ)("div", {
                                                 className: "text-foreground text-xs",
                                                 children: (0, c.rl)(k, 2)
@@ -528,8 +528,8 @@
                                                     src: "/logo.png",
                                                     width: 24,
                                                     height: 24,
-                                                    alt: "MELAI",
-                                                    title: "MELAI"
+                                                    alt: "NUBAI",
+                                                    title: "NUBAI"
                                                 })
                                             })]
                                         }), (0, r.BX)("div", {
@@ -946,7 +946,7 @@
                             })
                         }), (0, r.tZ)(W.Z, {
                             tokenAddress: c.UI,
-                            tokenName: "MELAI",
+                            tokenName: "NUBAI",
                             spenderAddress: c.mg,
                             storeAttribute: "dillApproval",
                             chainName: U.ChainNetwork.Ethereum,
@@ -993,10 +993,10 @@
                                             children: p.toFixed(4)
                                         }), (0, r.tZ)("br", {}), (0, r.BX)("h1", {
                                             className: "font-body text-foreground-alt-200 font-normal text-xs leading-4",
-                                            children: [v.toFixed(2), " ", s("v2.dill.pickle"), " (", (0, c.qx)(v * d), ") ", s("v2.dill.locked")]
+                                            children: [v.toFixed(2), " ", "NUBAI", " (", (0, c.qx)(v * d), ") ", s("v2.dill.locked")]
                                         }), (0, r.BX)("h1", {
                                             className: "font-body text-foreground-alt-200 font-normal text-xs leading-4",
-                                            children: [g.toFixed(0), " ", s("v2.dill.pickle"), 0 !== g ? " (".concat((0, c.qx)(g * d), ") ") : " ", s("v2.dill.inWallet")]
+                                            children: [g.toFixed(0), " ", "NUBAI", 0 !== g ? " (".concat((0, c.qx)(g * d), ") ") : " ", s("v2.dill.inWallet")]
                                         })]
                                     }), (0, r.tZ)(R.Z, {
                                         type: "primary",
@@ -1223,7 +1223,7 @@
                         }), (0, r.BX)(O.Z, {
                             isOpen: s,
                             closeModal: () => m(!1),
-                            title: "".concat(d("v2.actions.withdraw"), " MELAI"),
+                            title: "".concat(d("v2.actions.withdraw"), " NUBAI"),
                             children: [u.matches(ee.GC.AWAITING_CONFIRMATION) && (0, r.tZ)(eZ, {
                                 error: b,
                                 sendTransaction: x,
@@ -1363,7 +1363,7 @@
                                     children: "(".concat((0, c.qx)(p * h), ")")
                                 }), (0, r.tZ)("p", {
                                     className: "text-primary whitespace-pre font-medium text-base",
-                                    children: "".concat(f.toFixed(4), " MELAI")
+                                    children: "".concat(f.toFixed(4), " NUBAI")
                                 }), (0, r.tZ)("h1", {
                                     className: "font-body text-foreground-alt-200 font-normal text-xs leading-4",
                                     children: "(".concat((0, c.qx)(f * u), ")")
