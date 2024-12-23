@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F","\u002F404","\u002Fbrinery","\u002Fdill","\u002Ffarms","\u002Fstats","\u002Fswap","\u002Fv1","\u002Fv1\u002Fdill","\u002Fv1\u002Ffarms","\u002Fv1\u002Ffrax","\u002Fv1\u002Finfo","\u002Fv1\u002Finfo\u002Fearn","\u002Fv1\u002Finfo\u002Fjars","\u002Fv1\u002Fold-farms","\u002Fvote"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
